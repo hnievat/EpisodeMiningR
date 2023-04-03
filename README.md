@@ -1,9 +1,12 @@
 # EpisodeMiningR
 WINEPI Episode Mining algorithm for R
+
 Original algorithm by Mannila, et al. 1997
+
 Based on the Python implementation by @duytri and @nkmrtty
 
 Uses libraries gtools and rapportools
+
 Tested on RStudio 1.4.1717, R 4.1.1, gtools 3.9.2, and rapportools 1.0
 
 ## Features
